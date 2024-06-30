@@ -43,12 +43,12 @@ header > p {
   padding-left: 10px; /* Serviu para o parágrafo não precisar tocar na borda para se quebrar. Se usasse uma tamanho de max-width maior, funcionaria, mas não ficaria do tamanho que eu queria*/
   padding-right: 10px;
   text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.208);
-  margin-bottom: 20px;
+  padding-bottom: 20px;
 }
 header > h1 {
   color: white;
   font-family: var(--fonte-destaque);
-  padding-bottom: 20px;
+  margin-bottom: 20px;
   font-size: 3em;
   text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.148);
   font-weight: normal;
